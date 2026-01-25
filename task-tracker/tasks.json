@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "id": "task-001",
+      "title": "Build Task Tracker App",
+      "description": "Create an app to track assigned tasks, work in progress, and completed items",
+      "status": "completed",
+      "assignedBy": "cev",
+      "assignedAt": "2025-01-25T18:11:00Z",
+      "startedAt": "2025-01-25T18:11:30Z",
+      "completedAt": "2026-01-25T18:12:08.361Z",
+      "notes": []
+    }
+  ]
+}
