@@ -10,6 +10,50 @@
       "startedAt": "2025-01-25T18:11:30Z",
       "completedAt": "2026-01-25T18:12:08.361Z",
       "notes": []
+    },
+    {
+      "id": "task-002",
+      "title": "Security & Performance Fixes PR",
+      "description": "Rate limiting, CORS hardening, Gmail parallel fetches, better errors",
+      "status": "completed",
+      "assignedBy": "cev",
+      "assignedAt": "2026-01-25T18:35:31.342Z",
+      "startedAt": null,
+      "completedAt": "2026-01-25T18:35:34.818Z",
+      "notes": []
+    },
+    {
+      "id": "task-003",
+      "title": "Email V2 Frontend",
+      "description": "Build frontend for email staging, templates, and campaigns",
+      "status": "completed",
+      "assignedBy": "cev",
+      "assignedAt": "2026-01-25T18:58:00Z",
+      "startedAt": "2026-01-25T18:58:00Z",
+      "completedAt": "2026-01-25T19:02:00Z",
+      "notes": []
+    },
+    {
+      "id": "task-004",
+      "title": "Outlook Integration",
+      "description": "Add Microsoft Graph API support for Outlook email sync and sending",
+      "status": "completed",
+      "assignedBy": "cev",
+      "assignedAt": "2026-01-25T19:03:00Z",
+      "startedAt": "2026-01-25T19:03:00Z",
+      "completedAt": "2026-01-25T19:15:00Z",
+      "notes": []
+    },
+    {
+      "id": "task-005",
+      "title": "Analytics Dashboard V2",
+      "description": "Add response rates, conversion metrics, company breakdown, attention alerts",
+      "status": "completed",
+      "assignedBy": "cev",
+      "assignedAt": "2026-01-25T19:18:00Z",
+      "startedAt": "2026-01-25T19:18:00Z",
+      "completedAt": "2026-01-25T19:35:00Z",
+      "notes": []
     }
   ]
 }
