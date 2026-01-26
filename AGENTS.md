@@ -13,8 +13,19 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. **If working on CRM project**: Read `memory/crm-worklog.md` for cross-session continuity
 
 Don't ask permission. Just do it.
+
+## Cross-Session Continuity
+
+When working on shared projects (like CRM), **log your work** so other sessions know what you've done:
+
+1. **After significant work**: Append to the relevant worklog (e.g., `memory/crm-worklog.md`)
+2. **Notify other sessions**: Use `sessions_send` to ping active sessions about major changes
+3. **Check before starting**: Read the worklog to see what others have done
+
+This prevents duplicate work and keeps everyone in sync.
 
 ## Memory
 
