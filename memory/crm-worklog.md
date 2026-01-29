@@ -22,12 +22,12 @@ Sessions working on CRM:
 
 | Item | Value |
 |------|-------|
-| Backend repo | `~/CRM-backend` |
-| Frontend repo | `~/CRM-frontend` |
+| Backend repo | `~/CRM-backend` (NOT ~/clawd) |
+| Frontend repo | `~/CRM-frontend` (NOT ~/clawd) |
 | Current branch | `feature/gmail-integration-2.0` (both) |
-| Backend latest | `5851386` |
-| Frontend latest | `73376f1e` |
 | Ideas file | `~/clawd/IDEAS.md` (50 feature ideas) |
+
+⚠️ **Work in `~/CRM-frontend` and `~/CRM-backend`** — these are the real repos connected to GitHub.
 
 ---
 
@@ -88,6 +88,20 @@ Sessions working on CRM:
 - Live campaign name validation (red outline/text as you type)
 - Fixed route ordering for /check-name endpoint
 - Fixed form-row alignment when labels wrap
+
+---
+
+## 2026-01-27
+
+### Session: #crm-project (morning EST)
+- **Email Import page rebuild**: Complete rewrite using CSS Grid
+  - Replaced EmailStaging component with new EmailImport component
+  - CSS Grid guarantees perfect column alignment (header + rows share same template)
+  - Grid: `55px 65px minmax(120px, 1fr) minmax(150px, 2fr) 90px`
+  - Compact rows: 36px min-height, pill-style action buttons
+  - Renamed classes: `email-row` → `email-grid-row`, `row-action-btn` → `action-pill`
+
+**Commit:** `7d6041eb` - Rebuild Email Import page with CSS Grid layout
 
 ---
 

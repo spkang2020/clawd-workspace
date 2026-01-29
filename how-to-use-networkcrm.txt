@@ -1,0 +1,213 @@
+# How to Use NetworkCRM
+Your complete guide to networking success
+
+## Quick Navigation
+- Getting Started
+- Managing Contacts
+- Email Integration
+- Email Campaigns
+- Companies & Applications
+- Calendar & Meetings
+- Pro Tips
+
+---
+
+## 🚀 Getting Started
+
+NetworkCRM is designed to help students and professionals manage their networking efforts for investment banking, consulting, and other competitive industries. Here's how to get the most out of it.
+
+### Creating Your Account
+1. Click "Get Started" on the homepage
+2. Enter your name, email, and create a password
+3. You'll be taken directly to your dashboard
+
+### Understanding the Dashboard
+Your dashboard gives you a bird's-eye view of your networking progress:
+- **Pipeline Overview:** See contacts at each stage (No Action → Reached Out → In Communication → Referral Received)
+- **Recent Activity:** Track your latest emails, meetings, and contact updates
+- **Follow-up Reminders:** Never miss a follow-up with automatic tracking
+- **Analytics:** Visualize your outreach efforts and response rates
+
+---
+
+## 👥 Managing Contacts
+
+Contacts are the heart of NetworkCRM. Here's how to build and manage your network effectively.
+
+### Adding Contacts
+1. Navigate to **Process → Contacts** in the sidebar
+2. Click **+ Add Contact**
+3. Fill in the details:
+   - **Name & Email:** Required fields
+   - **Company & Title:** Who they work for and their role
+   - **Department & Group:** Categorize by team (e.g., IBD, S&T)
+   - **Stage:** Where they are in your pipeline
+   - **Tags:** Add custom labels for filtering
+
+### Contact Stages
+Track where each contact is in your networking journey:
+- **No Action:** Contact added but not yet reached out
+- **Reached Out:** Initial email sent, waiting for response
+- **In Communication:** Active back-and-forth conversation
+- **Referral Received:** They've agreed to refer you or provide a referral
+
+### Filtering & Search
+Use the filter bar to quickly find contacts:
+- Search by name or email
+- Filter by company, title, department, or group
+- Filter by stage to see your pipeline
+- Filter by tags for custom categories
+
+### Bulk Actions
+Need to update multiple contacts? Use **Edit Multiple** to:
+- Change stage for multiple contacts
+- Add or remove tags in bulk
+- Update company or department info
+
+---
+
+## 📧 Email Integration
+
+Connect your email to automatically sync communications with your contacts.
+
+### Connecting Gmail
+1. Go to **Settings** (gear icon in sidebar)
+2. Find **Gmail Integration** section
+3. Click **Connect Gmail**
+4. Authorize NetworkCRM to read your emails
+5. Emails with your contacts will sync automatically
+
+### Email Import
+The **Outreach → Email Import** section shows:
+- All synced emails from connected accounts
+- Priority emails (unread from contacts you're tracking)
+- Auto-matched contacts based on email addresses
+
+### Watched Domains
+Set up domain watching to auto-import emails from specific companies:
+1. Go to **Settings → Email**
+2. Add domains (e.g., "goldmansachs.com", "jpmorgan.com")
+3. Emails from these domains will be highlighted as priority
+
+---
+
+## 📤 Email Campaigns
+
+Send personalized mass emails to multiple contacts efficiently.
+
+### Creating Templates
+1. Go to **Outreach → Templates**
+2. Click **+ New Template**
+3. Write your email with merge fields:
+   - {{first_name}} - Contact's first name
+   - {{last_name}} - Contact's last name
+   - {{company}} - Their company
+   - {{title}} - Their job title
+4. Choose template type: **New Email** or **Reply** (for follow-ups)
+
+### Running a Campaign
+1. Go to **Outreach → Campaigns**
+2. Click **+ New Campaign**
+3. Name your campaign (e.g., "Q1 Goldman Outreach")
+4. Select thread mode:
+   - **New Email:** Start fresh conversations
+   - **Reply to Thread:** Follow up on existing threads
+5. Choose your template
+6. Filter recipients by stage, company, or tags
+7. Preview each email before sending
+8. Send all at once or one-by-one
+
+### Follow-Up Campaigns
+For contacts who haven't responded:
+1. Create a "Reply" type template
+2. Create campaign with **Reply to Thread** mode
+3. Filter by stage "Reached Out" to target non-responders
+4. The system will reply to existing threads automatically
+
+---
+
+## 🏢 Companies & Applications
+
+Track the firms you're targeting and your application progress.
+
+### Managing Companies
+Go to **Companies → Companies** to:
+- Add firms you're targeting
+- Track company details (industry, size, location)
+- See all contacts at each company
+- Add notes about the firm
+
+### Tracking Interviews
+Log interviews in **Companies → Interviews**:
+- Record interview date and type (phone, video, in-person)
+- Note which round (first round, superday, etc.)
+- Add interviewer names and questions asked
+- Track outcomes and next steps
+
+### Application Tracker
+Use **Companies → Applications** to:
+- Log every application submitted
+- Track status (Applied, Interview, Offer, Rejected)
+- Set deadline reminders
+- Link to related contacts and interviews
+
+---
+
+## 📅 Calendar & Meetings
+
+Keep track of all your networking calls and coffee chats.
+
+### Logging Meetings
+1. Go to **Process → Meetings**
+2. Click **+ Add Meeting**
+3. Select the contact(s) involved
+4. Set date, time, and duration
+5. Choose meeting type (call, video, in-person)
+6. Add notes and talking points
+
+### Calendar View
+The **Calendar** page shows:
+- All scheduled meetings in month/week/day view
+- Upcoming interview dates
+- Application deadlines
+- Follow-up reminders
+
+### After a Meeting
+Best practices after each networking call:
+1. Update meeting notes with key takeaways
+2. Update contact stage if appropriate
+3. Set follow-up reminder
+4. Send thank-you email (use a template!)
+
+---
+
+## 💡 Pro Tips
+
+### Effective Tagging Strategy
+- Use tags like "Alumni", "Warm Intro", "Cold Outreach"
+- Tag by recruiting cycle: "FT 2026", "SA 2025"
+- Tag by priority: "High Priority", "Backup"
+
+### Follow-Up Timing
+- Set follow-up reminders in Settings (default: 2 weeks)
+- The dashboard shows contacts needing follow-up
+- Use the "Reached Out" filter to find non-responders
+
+### Campaign Best Practices
+- Preview every email before sending
+- Personalize beyond just merge fields when possible
+- Send campaigns in batches (10-20 at a time)
+- Wait 1-2 weeks before follow-up campaigns
+
+### Data Organization
+- Use Import/Export for bulk contact uploads
+- Keep company and department fields consistent
+- Regularly clean up duplicate contacts
+- Archive old contacts rather than deleting
+
+---
+
+## Need More Help?
+
+Check out our Blog for networking tips and strategies.
+For technical issues, contact support at support@networkcrm.com
